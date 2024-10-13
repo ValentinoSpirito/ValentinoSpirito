@@ -23,8 +23,6 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<br/>
-<br/>
 
 
 ---
