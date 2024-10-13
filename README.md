@@ -20,9 +20,6 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
