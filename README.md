@@ -27,7 +27,9 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoleNeve&icon=0&color=8)](https://visitcount.itsvg.in)
