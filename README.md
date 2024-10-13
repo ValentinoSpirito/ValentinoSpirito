@@ -1,5 +1,5 @@
-## <h1>Hi there 👋</h1>
-**Digital Craftsman**
+# 👨🏻‍💻 Valentino Spirito
+**Digital Craftsman (Developer/Filmmaker/Creator)**
 
 ![](https://leetcard.jacoblin.cool/soleneve?ext=heatmap)
 
