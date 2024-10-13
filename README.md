@@ -9,7 +9,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 ![](https://leetcard.jacoblin.cool/soleneve?ext=heatmap)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoleNeve)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=transparent)
 
 <!--
 **SoleNeve/soleneve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
