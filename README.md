@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Valentino Spirito
-**Digital Craftsman (Developer/Filmmaker/Creator)**
+**Digital Craftsman (Developer/Student/Creator)**
 
 Hi, I'm Valentino Spirito, a computer science student passionate about technology and problem-solving. I love finding solutions to challenges that have a positive impact on the real world, and I aim to achieve that through software development.
 
