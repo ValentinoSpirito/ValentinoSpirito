@@ -1,0 +1,1 @@
+console.lot("Hello World")
