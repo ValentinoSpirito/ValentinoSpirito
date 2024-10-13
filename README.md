@@ -13,9 +13,9 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 ![](https://leetcard.jacoblin.cool/soleneve?ext=heatmap)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SoleNeve&theme=dark&hide_border=false)<br/>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ValentinoSpirito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ValentinoSpirito&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSpirito&theme=dark&hide_border=false)<br/>
 
 
 # 💻 Tech Stack:
