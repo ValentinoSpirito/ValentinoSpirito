@@ -24,7 +24,6 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-![](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
 ---
