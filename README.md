@@ -11,7 +11,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/>
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SoleNeve&theme=dark&hide_border=false)<br/>
 
 
@@ -27,7 +27,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoleNeve&icon=0&color=8)](https://visitcount.itsvg.in)
