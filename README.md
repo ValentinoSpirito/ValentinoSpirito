@@ -8,8 +8,7 @@ Currently, I'm building my skills in frontend development, focusing on HTML, CSS
 Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-spirito-353867329" target="_blank">LinkedIn</a> or check out my <a href="https://www.youtube.com/channel/UCrlHHn4fnUSP5r5g22HFhnQ" target="_blank">YouTube</a> for updates on my journey!
 
 ![](https://leetcard.jacoblin.cool/soleneve?ext=heatmap)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoleNeve)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoleNeve&show_icons=true&theme=transparent)
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
