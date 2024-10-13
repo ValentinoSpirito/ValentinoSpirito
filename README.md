@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=SoleNeve&icon=0&color=8)](https://visitcount.itsvg.in)
+---
+
 # 👨🏻‍💻 Valentino Spirito
 **Digital Craftsman (Developer/Student/Creator)**
 
@@ -24,10 +27,6 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 — Unknown
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=SoleNeve&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
 
