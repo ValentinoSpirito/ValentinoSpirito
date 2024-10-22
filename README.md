@@ -10,7 +10,7 @@ Currently, I'm building my skills in frontend development, focusing on HTML, CSS
 
 Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-spirito-353867329" target="_blank">LinkedIn</a> or check out my <a href="https://leetcode.com/ValentinoSpirito" target="_blank">LeetCode</a>, <a href="https://codeforces.com/profile/SoleNeve" target="_blank">Codeforces</a>, <a href="https://www.youtube.com/channel/UCrlHHn4fnUSP5r5g22HFhnQ" target="_blank">YouTube</a> for updates on my journey!
 
-<hr style="height: 3px; background-color: #000; border: none; margin-bottom: 20px;"/>
+<hr style="height: 5px; background-color: #000; border: none; margin-bottom: 20px;"/>
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
