@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=ValentinoSpirito&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<hr style="height: 2px; background-color: #f5f5dc; border: none; opacity: 0.7; margin-bottom: 20px;"/>
+<hr style="height: 2px; background-color: #e6e6fa; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
 # 👨🏻‍💻 Valentino Spirito
 **Digital Craftsman (Developer/Student/Creator)**
