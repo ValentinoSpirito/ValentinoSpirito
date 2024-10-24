@@ -22,7 +22,8 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SoleNeve)              ![](https://leetcard.jacoblin.cool/ValentinoSpirito?ext=heatmap)
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ValentinoSpirito&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ValentinoSpirito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)    
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSpirito&theme=dark&hide_border=false)<br/>
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
