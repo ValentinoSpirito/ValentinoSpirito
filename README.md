@@ -19,9 +19,11 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
+### My Codeforces Stats
+
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?SoleNeve=wweverma1&theme=1)
 
-![Codeforces Stats](https://codeforces-stats-api.herokuapp.com/stats/SoleNeve)
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 
 ![](https://leetcard.jacoblin.cool/ValentinoSpirito?ext=heatmap)
 
