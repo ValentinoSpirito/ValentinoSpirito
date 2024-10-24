@@ -19,14 +19,6 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
-
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
-
-
-
-
-
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SoleNeve)
 
 ![](https://leetcard.jacoblin.cool/ValentinoSpirito?ext=heatmap)
