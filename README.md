@@ -19,7 +19,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SoleNeve)  ![](https://leetcard.jacoblin.cool/ValentinoSpirito?ext=heatmap)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SoleNeve)              ![](https://leetcard.jacoblin.cool/ValentinoSpirito?ext=heatmap)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ValentinoSpirito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
