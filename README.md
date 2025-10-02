@@ -19,11 +19,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
-# ✍️ Favorite Dev Quote
-"Programming is like writing a book... except if you miss out a single comma on page 126, the whole thing makes no sense."
-
-— Unknown
-
+# ✍️ "I code, therefore, I am"
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
