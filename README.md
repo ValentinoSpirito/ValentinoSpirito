@@ -6,7 +6,7 @@
 
 Hi, I'm Valentino Spirito, a computer science student passionate about technology and problem-solving. I love finding solutions to challenges that have a positive impact on the real world, and I aim to achieve that through software development.
 
-Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-spirito-353867329" target="_blank">LinkedIn</a> or check out my <a href="https://leetcode.com/ValentinoSpirito" target="_blank">LeetCode</a>, <a href="https://codeforces.com/profile/SoleNeve" target="_blank">Codeforces</a>, <a href="https://www.youtube.com/channel/UCrlHHn4fnUSP5r5g22HFhnQ" target="_blank">YouTube</a> for updates on my journey!
+Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-spirito-353867329" target="_blank">LinkedIn</a> or check out my <a href="https://leetcode.com/ValentinoSpirito" target="_blank">LeetCode</a> and <a href="https://codeforces.com/profile/SoleNeve" target="_blank">Codeforces</a>!
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
