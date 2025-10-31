@@ -17,7 +17,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png" target="_blank" rel="noreferrer">
+<a href="[https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc6h7rok9c2v31.jpg)" target="_blank" rel="noreferrer">
   <img src="" alt="pandas" width="100" height="100"/>
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
