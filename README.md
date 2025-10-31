@@ -23,6 +23,10 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="100" height="100"/>
 </a>
+  ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp,python,pandas,numpy&theme=dark" alt="Tech Stack Icons" width="170" height="40"/>
+  </a>
 </p>
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
