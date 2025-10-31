@@ -18,10 +18,10 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="100" height="100"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="120" height="120"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="100" height="100"/>
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="120" height="120"/>
   </a>
 </p>
 
