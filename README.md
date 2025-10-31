@@ -18,7 +18,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://decodo.com/cdn-cgi/image/width=1280,quality=70,format=auto/https://images.decodo.com/Python_Pandas_1_cc44acf7dc/Python_Pandas_1_cc44acf7dc.png" alt="pandas" width="100" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="100" height="100"/>
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="100" height="100"/>
