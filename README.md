@@ -27,6 +27,8 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/valentino-s
 
 <hr style="height: 2px; background-color: #000; border: none; opacity: 0.7; margin-bottom: 20px;"/>
 
+[![ValentinoSpirito's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ValentinoSpirito&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
